@@ -17,7 +17,7 @@ public class SwitchDemo {
 		String event = "https://qaclaims.farmers.com";
 		String result = MessageFormat.format(urlString.toString(), event);
 
-		System.out.println(result);
+		System.out.println("Test the new change:: "+result);
 	}
 
 }
